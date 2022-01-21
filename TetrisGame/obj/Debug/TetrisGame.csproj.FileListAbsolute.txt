@@ -1,0 +1,10 @@
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojAssemblyReference.cache
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.cache
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Users\Art Devil\source\repos\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Form1.resources
